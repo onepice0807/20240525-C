@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1430-Operator\main.c(8): warning C4172: 지역 변수 또는 임시: sum의 주소를 반환하고 있습니다.
+  20240525-1430-Operator.vcxproj -> C:\Users\Atents\Desktop\ray\20240525-C\x64\Debug\20240525-1430-Operator.exe

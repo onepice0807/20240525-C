@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1730-Operator\main.c(40,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1730-Operator\main.c(40,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1730-Operator\main.c(40,12): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%f'에 필요합니다.
+  20240525-1730-Operator.vcxproj -> C:\Users\Atents\Desktop\ray\20240525-C\x64\Debug\20240525-1730-Operator.exe

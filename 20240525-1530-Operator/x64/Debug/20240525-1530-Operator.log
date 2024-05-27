@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(27,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(28,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\Atents\Desktop\ray\20240525-C\20240525-1530-Operator\main.c(29,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  20240525-1530-Operator.vcxproj -> C:\Users\Atents\Desktop\ray\20240525-C\x64\Debug\20240525-1530-Operator.exe
